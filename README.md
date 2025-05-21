@@ -22,5 +22,16 @@
 ##Input user
 ![carbon (11)](https://github.com/user-attachments/assets/27610e6f-9162-4adb-abc6-3674c907268e)
 
+##Mathematical Operators
+![carbon (12)](https://github.com/user-attachments/assets/01f4699d-ade5-4d6f-b23e-275784c776bb)
+![carbon (13)](https://github.com/user-attachments/assets/1356ed62-7e4b-4d9a-90dd-dc97b4d5aa1c)
+
+##Decrement Increment
+![carbon (14)](https://github.com/user-attachments/assets/73b4d0c0-c8cd-4dfe-acc0-26723ac14d51)
+
+##condtions
+![carbon (15)](https://github.com/user-attachments/assets/9ca87953-f289-45d2-beea-616af31b5108)
+
+
 
 

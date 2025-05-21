@@ -40,6 +40,17 @@
 ##function
 ![carbon (19)](https://github.com/user-attachments/assets/ba62dbe1-9759-4a7f-a57e-571b80eb67c0)
 
+##oop
+![carbon (20)](https://github.com/user-attachments/assets/9b43b6b5-b105-4f33-aafa-0aa27635a1b6)
+
+##Access Modifier
+![carbon (21)](https://github.com/user-attachments/assets/525ba429-ac8e-4dd5-a189-7e4c83a48785)
+
+##Delegate 
+![carbon (22)](https://github.com/user-attachments/assets/091e1632-ba2e-4b81-a19d-bdd594222710)
+
+
+
 
 
 

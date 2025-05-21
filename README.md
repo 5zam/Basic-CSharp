@@ -31,6 +31,16 @@
 
 ##condtions
 ![carbon (15)](https://github.com/user-attachments/assets/9ca87953-f289-45d2-beea-616af31b5108)
+![carbon (16)](https://github.com/user-attachments/assets/1ec32ba4-4774-4b53-9641-13e0b7dfecc6)
+
+##looping
+![carbon (17)](https://github.com/user-attachments/assets/d1507194-e02e-4237-b19a-481cff055c17)
+![carbon (18)](https://github.com/user-attachments/assets/53ca58f3-9caf-4a35-aaab-e75f9f2616f9)
+
+##function
+![carbon (19)](https://github.com/user-attachments/assets/ba62dbe1-9759-4a7f-a57e-571b80eb67c0)
+
+
 
 
 

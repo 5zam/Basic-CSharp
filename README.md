@@ -17,5 +17,10 @@
 
 ##Arrays
 ![carbon (8)](https://github.com/user-attachments/assets/22c80cbd-505d-4fa7-95c4-8c27404576e9)
+![carbon (9)](https://github.com/user-attachments/assets/513c2532-8298-4fd8-8b73-c04a267e8d00)
+
+##Input user
+![carbon (11)](https://github.com/user-attachments/assets/27610e6f-9162-4adb-abc6-3674c907268e)
+
 
 

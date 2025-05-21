@@ -15,6 +15,7 @@
 ##Objects
 ![carbon (7)](https://github.com/user-attachments/assets/ff98869b-a622-4a0e-b047-c28fc8fb284b)
 
-
+##Arrays
+![carbon (8)](https://github.com/user-attachments/assets/22c80cbd-505d-4fa7-95c4-8c27404576e9)
 
 
